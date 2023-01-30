@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: <strong>vanessaycui@gmail.com</strong>
+- 📫 How to reach me: <strong>vanessa.y.cui@gmail.com</strong>
 - 😄 Pronouns: <strong>she/her</strong>
 - 💻 Website: <strong>https://vanessaycui.github.io/portfolio/</strong>
 
