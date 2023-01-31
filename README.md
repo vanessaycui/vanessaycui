@@ -1,4 +1,4 @@
-## Hi There! 👋 I'm Vanessa
+## Hi there! 👋 I'm Vanessa
 ### Engineer | Software Developer
 <br/>
 
