@@ -36,7 +36,7 @@
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
 </a>
-
+<br/>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
 </a>
@@ -49,7 +49,7 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>
 </a>
-
+<br/>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
 <img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" alt="python" width="50" height="50"/>
 </a>
@@ -58,11 +58,8 @@
 </a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
 <img src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor" alt="postgres" width="50" height="50"/>
 </a>
-
+<br/>
 <a href="https://www.apple.com/ca/swift/" target="_blank" rel="noreferrer">
 <img src="https://icongr.am/devicon/swift-original.svg?size=128&color=currentColor" alt="swift" width="50" height="50"/>
 </a>
-
-
-
 </div>
