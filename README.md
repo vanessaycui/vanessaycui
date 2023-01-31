@@ -4,12 +4,6 @@
 
 <br/>
 
-<!--
-**vanessaycui/vanessaycui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-
 - 🔭 I’m currently working on <strong>DELTΔ, a full-stack personal finance application.</strong>
 - 🌱 I’m currently learning <strong>React Native, React, Typescript, Three.js</strong>
   <!-- - 👯 I’m looking to collaborate on ... -->
