@@ -10,7 +10,6 @@
   <!-- - 🤔 I’m looking for help with ... -->
   <!-- - 💬 Ask me about ... -->
 - 😄 Pronouns: <strong>she/her</strong>
-- 💻 Website: <strong>https://vanessaycui.github.io/portfolio/</strong>
 
 ### **Connect with me**:
 <div align=left>
