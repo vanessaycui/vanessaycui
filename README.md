@@ -1,16 +1,5 @@
 ## Hi There! 👋 I'm Vanessa
 
-### Engineer | Software Developer
-
-<br/>
-
-- 🔭 I’m currently working on <strong>DELTΔ, a full-stack personal finance application.</strong>
-- 🌱 I’m currently learning <strong>React Native, React, Typescript, Three.js</strong>
-  <!-- - 👯 I’m looking to collaborate on ... -->
-  <!-- - 🤔 I’m looking for help with ... -->
-  <!-- - 💬 Ask me about ... -->
-- 😄 Pronouns: <strong>she/her</strong>
-
 ### **Connect with me**:
 <div align=left>
 <a href="https://www.linkedin.com/in/vanessa-cui/" target="blank">
