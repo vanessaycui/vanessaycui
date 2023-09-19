@@ -1,4 +1,4 @@
-## Hi There! 👋 I'm Vanessa
+## Hi! 👋 I'm Vanessa
 
 
 <a href="https://www.linkedin.com/in/vanessa-cui/" target="blank">
