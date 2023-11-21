@@ -1,6 +1,3 @@
-## Hi! 👋 I'm Vanessa
-
-
 <a href="https://www.linkedin.com/in/vanessa-cui/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vanessa-cui/" width="50" height="50" /> 
 </a>
